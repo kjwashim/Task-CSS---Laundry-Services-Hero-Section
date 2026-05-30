@@ -1,6 +1,6 @@
 # Task_CSS- Laundry Services Hero Section
 
-# Task-5
+# Task 7: CSS Responsive Issues: Media Queies, Variables
 
 This project is a responsive Hero Section for a laundry service website. It includes a navigation bar and a main section with text content and an image, designed using HTML and CSS.
 
